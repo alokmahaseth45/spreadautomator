@@ -1,0 +1,3 @@
+call "D:\AR Conversion\ProcessCode_Alok\Open Excel And Read Data\open_And_Read_Excel_Omni.py" "D:\AR Conversion\Annual Reports Converted Omni\admin\Pdf_Single_Files\70c147f0-a430-4b98-99fa-0d3bea4cb781_AURUM Soft_48_GridLine_0001.xlsx"
+call "D:\AR Conversion\ProcessCode_Alok\Open Excel And Read Data\open_And_Read_Excel_Omni.py" "D:\AR Conversion\Annual Reports Converted Omni\admin\Pdf_Single_Files\70c147f0-a430-4b98-99fa-0d3bea4cb781_AURUM Soft_8_GridLine_0001.xlsx"
+call "D:\AR Conversion\ProcessCode_Alok\Open Excel And Read Data\open_And_Read_Excel_Omni.py" "D:\AR Conversion\Annual Reports Converted Omni\admin\Pdf_Single_Files\70c147f0-a430-4b98-99fa-0d3bea4cb781_AURUM Soft_12_GridLine_0001.xlsx"

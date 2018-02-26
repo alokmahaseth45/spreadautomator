@@ -1,0 +1,607 @@
+
+(1 rows affected)
+
+(1 rows affected)
+
+(5 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(5 rows affected)
+
+(0 rows affected)
+
+(2 rows affected)
+
+(2 rows affected)
+
+(3 rows affected)
+
+(3 rows affected)
+6
+1
+Excel_To_Table_ef9f1b1b-8305-4590-b6bd-ab773a3f7f15_N S Industries AY 16-17_6_GridLine_0001_Overview
+
+(34 rows affected)
+
+(35 rows affected)
+
+(35 rows affected)
+6
+2
+Excel_To_Table_ef9f1b1b-8305-4590-b6bd-ab773a3f7f15_N S Industries AY 16-17_6_GridLine_0001_Sheet1
+
+(2 rows affected)
+
+(2 rows affected)
+
+(2 rows affected)
+
+(3 rows affected)
+
+(3 rows affected)
+7
+3
+Excel_To_Table_ef9f1b1b-8305-4590-b6bd-ab773a3f7f15_N S Industries AY 16-17_7_GridLine_0001_Overview
+
+(38 rows affected)
+
+(39 rows affected)
+
+(39 rows affected)
+7
+4
+Excel_To_Table_ef9f1b1b-8305-4590-b6bd-ab773a3f7f15_N S Industries AY 16-17_7_GridLine_0001_Sheet1
+
+(2 rows affected)
+
+(2 rows affected)
+
+(9 rows affected)
+
+(10 rows affected)
+
+(10 rows affected)
+8
+5
+Excel_To_Table_ef9f1b1b-8305-4590-b6bd-ab773a3f7f15_N S Industries AY 16-17_8_GridLine_0001_Overview
+
+(24 rows affected)
+
+(25 rows affected)
+
+(25 rows affected)
+8
+6
+Excel_To_Table_ef9f1b1b-8305-4590-b6bd-ab773a3f7f15_N S Industries AY 16-17_8_GridLine_0001_Sheet1
+
+(2 rows affected)
+
+(2 rows affected)
+
+(101 rows affected)
+
+(102 rows affected)
+
+(102 rows affected)
+9
+7
+Excel_To_Table_ef9f1b1b-8305-4590-b6bd-ab773a3f7f15_N S Industries AY 16-17_9_GridLine_0001_Overview
+
+(12 rows affected)
+
+(13 rows affected)
+
+(13 rows affected)
+9
+8
+Excel_To_Table_ef9f1b1b-8305-4590-b6bd-ab773a3f7f15_N S Industries AY 16-17_9_GridLine_0001_Sheet1
+
+(2 rows affected)
+
+(2 rows affected)
+
+(16 rows affected)
+
+(17 rows affected)
+
+(17 rows affected)
+10
+9
+Excel_To_Table_ef9f1b1b-8305-4590-b6bd-ab773a3f7f15_N S Industries AY 16-17_10_GridLine_0001_Overview
+
+(12 rows affected)
+
+(13 rows affected)
+
+(13 rows affected)
+10
+10
+Excel_To_Table_ef9f1b1b-8305-4590-b6bd-ab773a3f7f15_N S Industries AY 16-17_10_GridLine_0001_Sheet1
+
+(27 rows affected)
+
+(0 rows affected)
+1
+
+(0 rows affected)
+2
+
+(0 rows affected)
+3
+
+(0 rows affected)
+4
+
+(0 rows affected)
+5
+
+(0 rows affected)
+6
+
+(0 rows affected)
+7
+
+(3 rows affected)
+8
+
+(2 rows affected)
+9
+
+(0 rows affected)
+10
+
+(1 rows affected)
+11
+
+(3 rows affected)
+12
+
+(3 rows affected)
+13
+
+(0 rows affected)
+14
+
+(2 rows affected)
+15
+
+(1 rows affected)
+16
+
+(0 rows affected)
+17
+
+(0 rows affected)
+18
+
+(1 rows affected)
+19
+
+(1 rows affected)
+20
+
+(1 rows affected)
+21
+
+(0 rows affected)
+22
+
+(0 rows affected)
+23
+
+(0 rows affected)
+24
+
+(0 rows affected)
+25
+
+(0 rows affected)
+26
+
+(145 rows affected)
+
+(0 rows affected)
+
+(0 rows affected)
+
+(0 rows affected)
+
+(1 rows affected)
+
+(10 rows affected)
+
+(5 rows affected)
+
+(13 rows affected)
+
+(0 rows affected)
+
+(0 rows affected)
+
+(0 rows affected)
+
+(35 rows affected)
+
+(0 rows affected)
+
+(0 rows affected)
+
+(0 rows affected)
+
+(39 rows affected)
+
+(0 rows affected)
+
+(0 rows affected)
+
+(0 rows affected)
+
+(25 rows affected)
+
+(0 rows affected)
+
+(0 rows affected)
+
+(0 rows affected)
+
+(13 rows affected)
+
+(0 rows affected)
+
+(0 rows affected)
+
+(0 rows affected)
+
+(5 rows affected)
+Excel_To_Table_ef9f1b1b-8305-4590-b6bd-ab773a3f7f15_N S Industries AY 16-17_10_GridLine_0001_Sheet1
+11
+ 
+ 
+2.6196e+008
+18000
+1.8e+006
+449385
+2.22666e+008
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+loop end
+ 
+Excel_To_Table_ef9f1b1b-8305-4590-b6bd-ab773a3f7f15_N S Industries AY 16-17_6_GridLine_0001_Sheet1
+33
+ 
+ 
+ 
+ 
+2.29014e+006
+3.46509e+007
+1.31953e+007
+ 
+ 
+ 
+481214
+2.4741e+007
+9.86312e+006
+ 
+ 
+ 
+ 
+ 
+ 
+loop end
+ 
+Excel_To_Table_ef9f1b1b-8305-4590-b6bd-ab773a3f7f15_N S Industries AY 16-17_7_GridLine_0001_Sheet1
+37
+ 
+0
+ 
+1
+ 
+476795
+257977
+5.377e+006
+ 
+ 
+ 
+ 
+ 
+5.377e+006
+ 
+ 
+ 
+ 
+ 
+loop end
+ 
+Excel_To_Table_ef9f1b1b-8305-4590-b6bd-ab773a3f7f15_N S Industries AY 16-17_8_GridLine_0001_Sheet1
+23
+ 
+ 
+4.27e+008
+2.06796e+007
+4.87641e+006
+ 
+85
+369436
+9.86312e+008
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+loop end
+ 
+Excel_To_Table_ef9f1b1b-8305-4590-b6bd-ab773a3f7f15_N S Industries AY 16-17_9_GridLine_0001_Sheet1
+11
+ 
+1.735e+006
+ 
+ 
+1.39745e+006
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+loop end
+ 
+
+(0 rows affected)
+
+(1 rows affected)
+
+(0 rows affected)
+
+(0 rows affected)
+
+(0 rows affected)
+
+(0 rows affected)
+
+(260 rows affected)
+
+(0 rows affected)
+
+(1 rows affected)
+
+(0 rows affected)
+
+(0 rows affected)
+
+(0 rows affected)
+
+(1 rows affected)

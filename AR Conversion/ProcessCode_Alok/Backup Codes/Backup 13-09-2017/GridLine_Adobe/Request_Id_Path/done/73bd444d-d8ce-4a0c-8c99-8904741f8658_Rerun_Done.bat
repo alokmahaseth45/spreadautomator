@@ -1,0 +1,3 @@
+echo RerunSPV_AR_Process_Internal_P1 for RequestId-73bd444d-d8ce-4a0c-8c99-8904741f8658   Start %date% %time%>>"D:\AR Conversion\ProcessCode_Alok\GridLine_Adobe\Request_Id_Path\log\RerunSPV_AR_Process_Internal_P1.txt"
+sqlcmd -E -S localhost -d Annual_Reports -Q "Exec SPV_AR_Process_Internal_P1 '73bd444d-d8ce-4a0c-8c99-8904741f8658' ">>"D:\AR Conversion\ProcessCode_Alok\GridLine_Adobe\Request_Id_Path\log\RerunSPV_AR_Process_Internal_P173bd444d-d8ce-4a0c-8c99-8904741f8658@%date:/=-%_%time::=^%.txt"
+echo RerunSPV_AR_Process_Internal_P1 for RequestId-73bd444d-d8ce-4a0c-8c99-8904741f8658   End %date% %time%>>"D:\AR Conversion\ProcessCode_Alok\GridLine_Adobe\Request_Id_Path\log\RerunSPV_AR_Process_Internal_P1.txt"

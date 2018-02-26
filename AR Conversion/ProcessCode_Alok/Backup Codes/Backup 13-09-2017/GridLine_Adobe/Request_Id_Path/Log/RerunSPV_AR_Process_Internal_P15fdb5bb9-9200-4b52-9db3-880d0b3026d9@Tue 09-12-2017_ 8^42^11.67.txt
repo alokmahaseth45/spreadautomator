@@ -1,0 +1,114 @@
+
+(1 rows affected)
+
+(1 rows affected)
+
+(2 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(0 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(0 rows affected)
+
+(1 rows affected)
+
+(2 rows affected)
+bcp "select  * from [Annual_Reports].[dbo].[TEXTFILE_2]" queryout "D:\AR Conversion\ProcessCode_Alok\GridLine_Adobe\Request_Id_Path\5fdb5bb9-9200-4b52-9db3-880d0b3026d9.txt"  -c -t, -T -S WIN-6M9N8542A8D
+output                                                                                                                                                                                                                                                         
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+NULL                                                                                                                                                                                                                                                           
+Starting copy...                                                                                                                                                                                                                                               
+NULL                                                                                                                                                                                                                                                           
+2 rows copied.                                                                                                                                                                                                                                                 
+Network packet size (bytes): 4096                                                                                                                                                                                                                              
+Clock Time (ms.) Total     : 1      Average : (2000.00 rows per sec.)                                                                                                                                                                                          
+NULL                                                                                                                                                                                                                                                           
+
+(7 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+bcp "select  * from [Annual_Reports].[dbo].[TEXTFILE_2]" queryout "D:\AR Conversion\ProcessCode_Alok\GridLine_Adobe\Request_Id_Path\5fdb5bb9-9200-4b52-9db3-880d0b3026d9_Internal_Call.bat"  -c -t, -T -S WIN-6M9N8542A8D
+output                                                                                                                                                                                                                                                         
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+NULL                                                                                                                                                                                                                                                           
+Starting copy...                                                                                                                                                                                                                                               
+NULL                                                                                                                                                                                                                                                           
+12 rows copied.                                                                                                                                                                                                                                                
+Network packet size (bytes): 4096                                                                                                                                                                                                                              
+Clock Time (ms.) Total     : 1      Average : (12000.00 rows per sec.)                                                                                                                                                                                         
+NULL                                                                                                                                                                                                                                                           
+
+(7 rows affected)
+
+(1 rows affected)

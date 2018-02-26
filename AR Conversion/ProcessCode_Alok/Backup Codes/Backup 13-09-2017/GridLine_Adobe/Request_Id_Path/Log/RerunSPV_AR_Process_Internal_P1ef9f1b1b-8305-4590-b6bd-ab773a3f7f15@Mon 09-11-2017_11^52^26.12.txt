@@ -1,0 +1,34 @@
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+Msg 245, Level 16, State 1, Server WIN-6M9N8542A8D, Procedure SPV_Update_IdenifiedPages, Line 35
+Conversion failed when converting the varchar value '6-7' to data type int.

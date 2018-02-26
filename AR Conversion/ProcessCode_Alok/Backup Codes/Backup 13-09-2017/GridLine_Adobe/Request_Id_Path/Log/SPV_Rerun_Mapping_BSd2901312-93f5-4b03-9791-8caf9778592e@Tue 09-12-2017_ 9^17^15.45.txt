@@ -1,0 +1,2 @@
+ ( "Shareholder" Or "Shareholders" Or "Shareholderses")  and ( "fund" Or "funds" Or "fundses") 
+ ( "Dividend" Or "Dividendes" Or "Dividends")  and ( "proposed" Or "proposedes" Or "proposeds")  and ("be")  and ( "distributed" Or "distributedes" Or "distributeds")  and ( "equity" Or "equityes" Or "equitys")  and ( "shareholder" Or "shareholders" Or "shareholderses") 

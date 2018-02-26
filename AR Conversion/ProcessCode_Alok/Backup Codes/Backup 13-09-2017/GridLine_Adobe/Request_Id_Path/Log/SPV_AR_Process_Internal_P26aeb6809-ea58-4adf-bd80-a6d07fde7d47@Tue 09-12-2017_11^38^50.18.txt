@@ -1,0 +1,2525 @@
+
+(1 rows affected)
+
+(1 rows affected)
+
+(25 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(25 rows affected)
+
+(0 rows affected)
+
+(2 rows affected)
+
+(38 rows affected)
+
+(39 rows affected)
+
+(39 rows affected)
+2
+1
+Excel_To_Table_6aeb6809-ea58-4adf-bd80-a6d07fde7d47_Attach BRITISH NUTRITIONS PRIVATE LIMITED_2_GridLine_0001_Overview
+
+(7 rows affected)
+
+(8 rows affected)
+
+(8 rows affected)
+2
+2
+Excel_To_Table_6aeb6809-ea58-4adf-bd80-a6d07fde7d47_Attach BRITISH NUTRITIONS PRIVATE LIMITED_2_GridLine_0001_Sheet1
+
+(2 rows affected)
+
+(2 rows affected)
+
+(23 rows affected)
+
+(24 rows affected)
+
+(24 rows affected)
+3
+3
+Excel_To_Table_6aeb6809-ea58-4adf-bd80-a6d07fde7d47_Attach BRITISH NUTRITIONS PRIVATE LIMITED_3_GridLine_0001_Overview
+
+(46 rows affected)
+
+(47 rows affected)
+
+(47 rows affected)
+3
+4
+Excel_To_Table_6aeb6809-ea58-4adf-bd80-a6d07fde7d47_Attach BRITISH NUTRITIONS PRIVATE LIMITED_3_GridLine_0001_Sheet1
+
+(2 rows affected)
+
+(2 rows affected)
+
+(23 rows affected)
+
+(24 rows affected)
+
+(24 rows affected)
+4
+5
+Excel_To_Table_6aeb6809-ea58-4adf-bd80-a6d07fde7d47_Attach BRITISH NUTRITIONS PRIVATE LIMITED_4_GridLine_0001_Overview
+
+(42 rows affected)
+
+(43 rows affected)
+
+(43 rows affected)
+4
+6
+Excel_To_Table_6aeb6809-ea58-4adf-bd80-a6d07fde7d47_Attach BRITISH NUTRITIONS PRIVATE LIMITED_4_GridLine_0001_Sheet1
+
+(2 rows affected)
+
+(2 rows affected)
+
+(4 rows affected)
+
+(5 rows affected)
+
+(5 rows affected)
+6
+7
+Excel_To_Table_6aeb6809-ea58-4adf-bd80-a6d07fde7d47_Attach BRITISH NUTRITIONS PRIVATE LIMITED_6_GridLine_0001_Overview
+
+(65 rows affected)
+
+(66 rows affected)
+
+(66 rows affected)
+6
+8
+Excel_To_Table_6aeb6809-ea58-4adf-bd80-a6d07fde7d47_Attach BRITISH NUTRITIONS PRIVATE LIMITED_6_GridLine_0001_Sheet1
+
+(2 rows affected)
+
+(2 rows affected)
+
+(2 rows affected)
+
+(3 rows affected)
+
+(3 rows affected)
+7
+9
+Excel_To_Table_6aeb6809-ea58-4adf-bd80-a6d07fde7d47_Attach BRITISH NUTRITIONS PRIVATE LIMITED_7_GridLine_0001_Overview
+
+(65 rows affected)
+
+(66 rows affected)
+
+(66 rows affected)
+7
+10
+Excel_To_Table_6aeb6809-ea58-4adf-bd80-a6d07fde7d47_Attach BRITISH NUTRITIONS PRIVATE LIMITED_7_GridLine_0001_Sheet1
+
+(2 rows affected)
+
+(2 rows affected)
+
+(1 rows affected)
+
+(2 rows affected)
+
+(2 rows affected)
+8
+11
+Excel_To_Table_6aeb6809-ea58-4adf-bd80-a6d07fde7d47_Attach BRITISH NUTRITIONS PRIVATE LIMITED_8_GridLine_0001_Overview
+
+(34 rows affected)
+
+(35 rows affected)
+
+(35 rows affected)
+8
+12
+Excel_To_Table_6aeb6809-ea58-4adf-bd80-a6d07fde7d47_Attach BRITISH NUTRITIONS PRIVATE LIMITED_8_GridLine_0001_Sheet1
+
+(2 rows affected)
+
+(2 rows affected)
+
+(2 rows affected)
+
+(3 rows affected)
+
+(3 rows affected)
+9
+13
+Excel_To_Table_6aeb6809-ea58-4adf-bd80-a6d07fde7d47_Attach BRITISH NUTRITIONS PRIVATE LIMITED_9_GridLine_0001_Overview
+
+(61 rows affected)
+
+(62 rows affected)
+
+(62 rows affected)
+9
+14
+Excel_To_Table_6aeb6809-ea58-4adf-bd80-a6d07fde7d47_Attach BRITISH NUTRITIONS PRIVATE LIMITED_9_GridLine_0001_Sheet1
+
+(2 rows affected)
+
+(2 rows affected)
+
+(7 rows affected)
+
+(8 rows affected)
+
+(8 rows affected)
+10
+15
+Excel_To_Table_6aeb6809-ea58-4adf-bd80-a6d07fde7d47_Attach BRITISH NUTRITIONS PRIVATE LIMITED_10_GridLine_0001_Overview
+
+(37 rows affected)
+
+(38 rows affected)
+
+(38 rows affected)
+10
+16
+Excel_To_Table_6aeb6809-ea58-4adf-bd80-a6d07fde7d47_Attach BRITISH NUTRITIONS PRIVATE LIMITED_10_GridLine_0001_Sheet1
+
+(2 rows affected)
+
+(2 rows affected)
+
+(1 rows affected)
+
+(2 rows affected)
+
+(2 rows affected)
+11
+17
+Excel_To_Table_6aeb6809-ea58-4adf-bd80-a6d07fde7d47_Attach BRITISH NUTRITIONS PRIVATE LIMITED_11_GridLine_0001_Overview
+
+(27 rows affected)
+
+(28 rows affected)
+
+(28 rows affected)
+11
+18
+Excel_To_Table_6aeb6809-ea58-4adf-bd80-a6d07fde7d47_Attach BRITISH NUTRITIONS PRIVATE LIMITED_11_GridLine_0001_Sheet1
+
+(2 rows affected)
+
+(2 rows affected)
+
+(1 rows affected)
+
+(2 rows affected)
+
+(2 rows affected)
+12
+19
+Excel_To_Table_6aeb6809-ea58-4adf-bd80-a6d07fde7d47_Attach BRITISH NUTRITIONS PRIVATE LIMITED_12_GridLine_0001_Overview
+
+(44 rows affected)
+
+(45 rows affected)
+
+(45 rows affected)
+12
+20
+Excel_To_Table_6aeb6809-ea58-4adf-bd80-a6d07fde7d47_Attach BRITISH NUTRITIONS PRIVATE LIMITED_12_GridLine_0001_Sheet1
+
+(2 rows affected)
+
+(2 rows affected)
+
+(9 rows affected)
+
+(10 rows affected)
+
+(10 rows affected)
+13
+21
+Excel_To_Table_6aeb6809-ea58-4adf-bd80-a6d07fde7d47_Attach BRITISH NUTRITIONS PRIVATE LIMITED_13_GridLine_0001_Overview
+
+(24 rows affected)
+
+(25 rows affected)
+
+(25 rows affected)
+13
+22
+Excel_To_Table_6aeb6809-ea58-4adf-bd80-a6d07fde7d47_Attach BRITISH NUTRITIONS PRIVATE LIMITED_13_GridLine_0001_Sheet1
+
+(2 rows affected)
+
+(2 rows affected)
+
+(23 rows affected)
+
+(24 rows affected)
+
+(24 rows affected)
+14
+23
+Excel_To_Table_6aeb6809-ea58-4adf-bd80-a6d07fde7d47_Attach BRITISH NUTRITIONS PRIVATE LIMITED_14_GridLine_0001_Overview
+
+(17 rows affected)
+
+(18 rows affected)
+
+(18 rows affected)
+14
+24
+Excel_To_Table_6aeb6809-ea58-4adf-bd80-a6d07fde7d47_Attach BRITISH NUTRITIONS PRIVATE LIMITED_14_GridLine_0001_Sheet1
+
+(2 rows affected)
+
+(2 rows affected)
+
+(1 rows affected)
+
+(2 rows affected)
+
+(2 rows affected)
+15
+25
+Excel_To_Table_6aeb6809-ea58-4adf-bd80-a6d07fde7d47_Attach BRITISH NUTRITIONS PRIVATE LIMITED_15_GridLine_0001_Overview
+
+(14 rows affected)
+
+(15 rows affected)
+
+(15 rows affected)
+15
+26
+Excel_To_Table_6aeb6809-ea58-4adf-bd80-a6d07fde7d47_Attach BRITISH NUTRITIONS PRIVATE LIMITED_15_GridLine_0001_Sheet1
+
+(2 rows affected)
+
+(2 rows affected)
+
+(2 rows affected)
+
+(3 rows affected)
+
+(3 rows affected)
+16
+27
+Excel_To_Table_6aeb6809-ea58-4adf-bd80-a6d07fde7d47_Attach BRITISH NUTRITIONS PRIVATE LIMITED_16_GridLine_0001_Overview
+
+(39 rows affected)
+
+(40 rows affected)
+
+(40 rows affected)
+16
+28
+Excel_To_Table_6aeb6809-ea58-4adf-bd80-a6d07fde7d47_Attach BRITISH NUTRITIONS PRIVATE LIMITED_16_GridLine_0001_Sheet1
+
+(2 rows affected)
+
+(2 rows affected)
+
+(1 rows affected)
+
+(2 rows affected)
+
+(2 rows affected)
+17
+29
+Excel_To_Table_6aeb6809-ea58-4adf-bd80-a6d07fde7d47_Attach BRITISH NUTRITIONS PRIVATE LIMITED_17_GridLine_0001_Overview
+
+(33 rows affected)
+
+(34 rows affected)
+
+(34 rows affected)
+17
+30
+Excel_To_Table_6aeb6809-ea58-4adf-bd80-a6d07fde7d47_Attach BRITISH NUTRITIONS PRIVATE LIMITED_17_GridLine_0001_Sheet1
+
+(2 rows affected)
+
+(2 rows affected)
+
+(2 rows affected)
+
+(3 rows affected)
+
+(3 rows affected)
+18
+31
+Excel_To_Table_6aeb6809-ea58-4adf-bd80-a6d07fde7d47_Attach BRITISH NUTRITIONS PRIVATE LIMITED_18_GridLine_0001_Overview
+
+(55 rows affected)
+
+(56 rows affected)
+
+(56 rows affected)
+18
+32
+Excel_To_Table_6aeb6809-ea58-4adf-bd80-a6d07fde7d47_Attach BRITISH NUTRITIONS PRIVATE LIMITED_18_GridLine_0001_Sheet1
+
+(2 rows affected)
+
+(2 rows affected)
+
+(1 rows affected)
+
+(2 rows affected)
+
+(2 rows affected)
+19
+33
+Excel_To_Table_6aeb6809-ea58-4adf-bd80-a6d07fde7d47_Attach BRITISH NUTRITIONS PRIVATE LIMITED_19_GridLine_0001_Overview
+
+(52 rows affected)
+
+(53 rows affected)
+
+(53 rows affected)
+19
+34
+Excel_To_Table_6aeb6809-ea58-4adf-bd80-a6d07fde7d47_Attach BRITISH NUTRITIONS PRIVATE LIMITED_19_GridLine_0001_Sheet1
+
+(2 rows affected)
+
+(2 rows affected)
+
+(2 rows affected)
+
+(3 rows affected)
+
+(3 rows affected)
+20
+35
+Excel_To_Table_6aeb6809-ea58-4adf-bd80-a6d07fde7d47_Attach BRITISH NUTRITIONS PRIVATE LIMITED_20_GridLine_0001_Overview
+
+(22 rows affected)
+
+(23 rows affected)
+
+(23 rows affected)
+20
+36
+Excel_To_Table_6aeb6809-ea58-4adf-bd80-a6d07fde7d47_Attach BRITISH NUTRITIONS PRIVATE LIMITED_20_GridLine_0001_Sheet1
+
+(2 rows affected)
+
+(2 rows affected)
+
+(3 rows affected)
+
+(4 rows affected)
+
+(4 rows affected)
+21
+37
+Excel_To_Table_6aeb6809-ea58-4adf-bd80-a6d07fde7d47_Attach BRITISH NUTRITIONS PRIVATE LIMITED_21_GridLine_0001_Overview
+
+(25 rows affected)
+
+(26 rows affected)
+
+(26 rows affected)
+21
+38
+Excel_To_Table_6aeb6809-ea58-4adf-bd80-a6d07fde7d47_Attach BRITISH NUTRITIONS PRIVATE LIMITED_21_GridLine_0001_Sheet1
+
+(2 rows affected)
+
+(2 rows affected)
+
+(3 rows affected)
+
+(4 rows affected)
+
+(4 rows affected)
+22
+39
+Excel_To_Table_6aeb6809-ea58-4adf-bd80-a6d07fde7d47_Attach BRITISH NUTRITIONS PRIVATE LIMITED_22_GridLine_0001_Overview
+
+(39 rows affected)
+
+(40 rows affected)
+
+(40 rows affected)
+22
+40
+Excel_To_Table_6aeb6809-ea58-4adf-bd80-a6d07fde7d47_Attach BRITISH NUTRITIONS PRIVATE LIMITED_22_GridLine_0001_Sheet1
+
+(2 rows affected)
+
+(2 rows affected)
+
+(3 rows affected)
+
+(4 rows affected)
+
+(4 rows affected)
+23
+41
+Excel_To_Table_6aeb6809-ea58-4adf-bd80-a6d07fde7d47_Attach BRITISH NUTRITIONS PRIVATE LIMITED_23_GridLine_0001_Overview
+
+(10 rows affected)
+
+(11 rows affected)
+
+(11 rows affected)
+23
+42
+Excel_To_Table_6aeb6809-ea58-4adf-bd80-a6d07fde7d47_Attach BRITISH NUTRITIONS PRIVATE LIMITED_23_GridLine_0001_Sheet1
+
+(2 rows affected)
+
+(3 rows affected)
+
+(9 rows affected)
+
+(10 rows affected)
+
+(10 rows affected)
+24
+43
+Excel_To_Table_6aeb6809-ea58-4adf-bd80-a6d07fde7d47_Attach BRITISH NUTRITIONS PRIVATE LIMITED_24_GridLine_0001_Overview
+
+(15 rows affected)
+
+(16 rows affected)
+
+(16 rows affected)
+24
+44
+Excel_To_Table_6aeb6809-ea58-4adf-bd80-a6d07fde7d47_Attach BRITISH NUTRITIONS PRIVATE LIMITED_24_GridLine_0001_Sheet1
+
+(13 rows affected)
+
+(14 rows affected)
+
+(14 rows affected)
+24
+45
+Excel_To_Table_6aeb6809-ea58-4adf-bd80-a6d07fde7d47_Attach BRITISH NUTRITIONS PRIVATE LIMITED_24_GridLine_0001_Sheet2
+
+(3 rows affected)
+
+(4 rows affected)
+
+(9 rows affected)
+
+(10 rows affected)
+
+(10 rows affected)
+25
+46
+Excel_To_Table_6aeb6809-ea58-4adf-bd80-a6d07fde7d47_Attach BRITISH NUTRITIONS PRIVATE LIMITED_25_GridLine_0001_Overview
+
+(14 rows affected)
+
+(15 rows affected)
+
+(15 rows affected)
+25
+47
+Excel_To_Table_6aeb6809-ea58-4adf-bd80-a6d07fde7d47_Attach BRITISH NUTRITIONS PRIVATE LIMITED_25_GridLine_0001_Sheet1
+
+(10 rows affected)
+
+(11 rows affected)
+
+(11 rows affected)
+25
+48
+Excel_To_Table_6aeb6809-ea58-4adf-bd80-a6d07fde7d47_Attach BRITISH NUTRITIONS PRIVATE LIMITED_25_GridLine_0001_Sheet2
+
+(16 rows affected)
+
+(17 rows affected)
+
+(17 rows affected)
+25
+49
+Excel_To_Table_6aeb6809-ea58-4adf-bd80-a6d07fde7d47_Attach BRITISH NUTRITIONS PRIVATE LIMITED_25_GridLine_0001_Sheet3
+
+(4 rows affected)
+
+(2 rows affected)
+
+(1 rows affected)
+
+(2 rows affected)
+
+(2 rows affected)
+26
+50
+Excel_To_Table_6aeb6809-ea58-4adf-bd80-a6d07fde7d47_Attach BRITISH NUTRITIONS PRIVATE LIMITED_26_GridLine_0001_Overview
+
+(55 rows affected)
+
+(56 rows affected)
+
+(56 rows affected)
+26
+51
+Excel_To_Table_6aeb6809-ea58-4adf-bd80-a6d07fde7d47_Attach BRITISH NUTRITIONS PRIVATE LIMITED_26_GridLine_0001_Sheet1
+
+(2 rows affected)
+
+(2 rows affected)
+
+(2 rows affected)
+
+(3 rows affected)
+
+(3 rows affected)
+27
+52
+Excel_To_Table_6aeb6809-ea58-4adf-bd80-a6d07fde7d47_Attach BRITISH NUTRITIONS PRIVATE LIMITED_27_GridLine_0001_Overview
+
+(35 rows affected)
+
+(36 rows affected)
+
+(36 rows affected)
+27
+53
+Excel_To_Table_6aeb6809-ea58-4adf-bd80-a6d07fde7d47_Attach BRITISH NUTRITIONS PRIVATE LIMITED_27_GridLine_0001_Sheet1
+
+(27 rows affected)
+
+(0 rows affected)
+1
+
+(0 rows affected)
+2
+
+(0 rows affected)
+3
+
+(0 rows affected)
+4
+
+(0 rows affected)
+5
+
+(0 rows affected)
+6
+
+(0 rows affected)
+7
+
+(0 rows affected)
+8
+
+(0 rows affected)
+9
+
+(0 rows affected)
+10
+
+(0 rows affected)
+11
+
+(0 rows affected)
+12
+
+(0 rows affected)
+13
+
+(0 rows affected)
+14
+
+(0 rows affected)
+15
+
+(0 rows affected)
+16
+
+(0 rows affected)
+17
+
+(0 rows affected)
+18
+
+(0 rows affected)
+19
+
+(0 rows affected)
+20
+
+(0 rows affected)
+21
+
+(0 rows affected)
+22
+
+(0 rows affected)
+23
+
+(0 rows affected)
+24
+
+(0 rows affected)
+25
+
+(0 rows affected)
+26
+
+(0 rows affected)
+
+(0 rows affected)
+
+(957 rows affected)
+
+(0 rows affected)
+
+(1 rows affected)
+
+(53 rows affected)
+
+(25 rows affected)
+
+(38 rows affected)
+
+(0 rows affected)
+
+(0 rows affected)
+
+(0 rows affected)
+
+(28 rows affected)
+
+(0 rows affected)
+
+(0 rows affected)
+
+(0 rows affected)
+
+(45 rows affected)
+
+(0 rows affected)
+
+(0 rows affected)
+
+(0 rows affected)
+
+(25 rows affected)
+
+(0 rows affected)
+
+(0 rows affected)
+
+(0 rows affected)
+
+(18 rows affected)
+
+(0 rows affected)
+
+(0 rows affected)
+
+(0 rows affected)
+
+(15 rows affected)
+
+(0 rows affected)
+
+(0 rows affected)
+
+(0 rows affected)
+
+(40 rows affected)
+
+(0 rows affected)
+
+(0 rows affected)
+
+(0 rows affected)
+
+(34 rows affected)
+
+(0 rows affected)
+
+(0 rows affected)
+
+(0 rows affected)
+
+(56 rows affected)
+
+(0 rows affected)
+
+(0 rows affected)
+
+(0 rows affected)
+
+(53 rows affected)
+
+(0 rows affected)
+
+(0 rows affected)
+
+(0 rows affected)
+
+(8 rows affected)
+
+(0 rows affected)
+
+(0 rows affected)
+
+(0 rows affected)
+
+(23 rows affected)
+
+(0 rows affected)
+
+(0 rows affected)
+
+(0 rows affected)
+
+(26 rows affected)
+
+(0 rows affected)
+
+(0 rows affected)
+
+(0 rows affected)
+
+(40 rows affected)
+
+(0 rows affected)
+
+(0 rows affected)
+
+(0 rows affected)
+
+(11 rows affected)
+
+(0 rows affected)
+
+(0 rows affected)
+
+(0 rows affected)
+
+(16 rows affected)
+
+(14 rows affected)
+
+(0 rows affected)
+
+(0 rows affected)
+
+(15 rows affected)
+
+(11 rows affected)
+
+(17 rows affected)
+
+(0 rows affected)
+
+(56 rows affected)
+
+(0 rows affected)
+
+(0 rows affected)
+
+(0 rows affected)
+
+(36 rows affected)
+
+(0 rows affected)
+
+(0 rows affected)
+
+(0 rows affected)
+
+(47 rows affected)
+
+(0 rows affected)
+
+(0 rows affected)
+
+(0 rows affected)
+
+(43 rows affected)
+
+(0 rows affected)
+
+(0 rows affected)
+
+(0 rows affected)
+
+(66 rows affected)
+
+(0 rows affected)
+
+(0 rows affected)
+
+(0 rows affected)
+
+(66 rows affected)
+
+(0 rows affected)
+
+(0 rows affected)
+
+(0 rows affected)
+
+(35 rows affected)
+
+(0 rows affected)
+
+(0 rows affected)
+
+(0 rows affected)
+
+(62 rows affected)
+
+(0 rows affected)
+
+(0 rows affected)
+
+(0 rows affected)
+
+(28 rows affected)
+Excel_To_Table_6aeb6809-ea58-4adf-bd80-a6d07fde7d47_Attach BRITISH NUTRITIONS PRIVATE LIMITED_10_GridLine_0001_Sheet1
+36
+ 
+1.08151e+008
+535448
+1.06056e+008
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+loop end
+ 
+Excel_To_Table_6aeb6809-ea58-4adf-bd80-a6d07fde7d47_Attach BRITISH NUTRITIONS PRIVATE LIMITED_11_GridLine_0001_Sheet1
+26
+ 
+ 
+1.23463e+008
+ 
+1.26414e+008
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+loop end
+ 
+Excel_To_Table_6aeb6809-ea58-4adf-bd80-a6d07fde7d47_Attach BRITISH NUTRITIONS PRIVATE LIMITED_12_GridLine_0001_Sheet1
+43
+ 
+ 
+1.24066e+008
+603618
+1.27608e+008
+1.15995e+006
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+loop end
+ 
+Excel_To_Table_6aeb6809-ea58-4adf-bd80-a6d07fde7d47_Attach BRITISH NUTRITIONS PRIVATE LIMITED_13_GridLine_0001_Sheet1
+23
+ 
+ 
+817575
+2.22809e+006
+2.22809e+006
+1.30633e+006
+3.87851e+006
+3.87851e+006
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+loop end
+ 
+Excel_To_Table_6aeb6809-ea58-4adf-bd80-a6d07fde7d47_Attach BRITISH NUTRITIONS PRIVATE LIMITED_14_GridLine_0001_Sheet1
+16
+5
+ 
+3.93505e+006
+70533
+15260
+ 
+ 
+3.99033e+006
+ 
+1.54907e+006
+ 
+621125
+ 
+ 
+2016
+2.1702e+006
+2.38598e+006
+1.82013e+006
+ 
+loop end
+ 
+Excel_To_Table_6aeb6809-ea58-4adf-bd80-a6d07fde7d47_Attach BRITISH NUTRITIONS PRIVATE LIMITED_15_GridLine_0001_Sheet1
+13
+ 
+ 
+ 
+ 
+147793
+36530
+184323
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+loop end
+ 
+Excel_To_Table_6aeb6809-ea58-4adf-bd80-a6d07fde7d47_Attach BRITISH NUTRITIONS PRIVATE LIMITED_16_GridLine_0001_Sheet1
+38
+ 
+ 
+ 
+4.81943e+006
+7.7486e+006
+4.81943e+006
+ 
+6.62816e+006
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+loop end
+ 
+Excel_To_Table_6aeb6809-ea58-4adf-bd80-a6d07fde7d47_Attach BRITISH NUTRITIONS PRIVATE LIMITED_17_GridLine_0001_Sheet1
+32
+ 
+ 
+ 
+ 
+7.4125e+006
+ 
+8.80047e+006
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+loop end
+ 
+Excel_To_Table_6aeb6809-ea58-4adf-bd80-a6d07fde7d47_Attach BRITISH NUTRITIONS PRIVATE LIMITED_18_GridLine_0001_Sheet1
+54
+ 
+ 
+524850
+399952
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+loop end
+ 
+Excel_To_Table_6aeb6809-ea58-4adf-bd80-a6d07fde7d47_Attach BRITISH NUTRITIONS PRIVATE LIMITED_19_GridLine_0001_Sheet1
+51
+ 
+ 
+3.06225e+006
+4.40319e+006
+3.2449e+006
+1.87468e+006
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+loop end
+ 
+Excel_To_Table_6aeb6809-ea58-4adf-bd80-a6d07fde7d47_Attach BRITISH NUTRITIONS PRIVATE LIMITED_2_GridLine_0001_Sheet1
+6
+ 
+2
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+loop end
+update Temp_NotesTable set Particulars= ' '+isnull([C1],'') where  Table_Name='Excel_To_Table_6aeb6809-ea58-4adf-bd80-a6d07fde7d47_Attach BRITISH NUTRITIONS PRIVATE LIMITED_2_GridLine_0001_Sheet1'
+Excel_To_Table_6aeb6809-ea58-4adf-bd80-a6d07fde7d47_Attach BRITISH NUTRITIONS PRIVATE LIMITED_20_GridLine_0001_Sheet1
+21
+ 
+349038
+2014
+5.46862e+006
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+loop end
+ 
+Excel_To_Table_6aeb6809-ea58-4adf-bd80-a6d07fde7d47_Attach BRITISH NUTRITIONS PRIVATE LIMITED_21_GridLine_0001_Sheet1
+24
+ 
+ 
+ 
+ 
+ 
+37318
+ 
+66316
+37318
+87466
+ 
+197813
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+loop end
+ 
+Excel_To_Table_6aeb6809-ea58-4adf-bd80-a6d07fde7d47_Attach BRITISH NUTRITIONS PRIVATE LIMITED_22_GridLine_0001_Sheet1
+38
+ 
+ 
+486494
+617996
+377994
+496536
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+loop end
+ 
+Excel_To_Table_6aeb6809-ea58-4adf-bd80-a6d07fde7d47_Attach BRITISH NUTRITIONS PRIVATE LIMITED_23_GridLine_0001_Sheet1
+9
+ 
+ 
+ 
+52627
+78942
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+loop end
+ 
+Excel_To_Table_6aeb6809-ea58-4adf-bd80-a6d07fde7d47_Attach BRITISH NUTRITIONS PRIVATE LIMITED_24_GridLine_0001_Sheet1
+14
+ 
+4.65294e+007
+6.35475e+007
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+loop end
+ 
+Excel_To_Table_6aeb6809-ea58-4adf-bd80-a6d07fde7d47_Attach BRITISH NUTRITIONS PRIVATE LIMITED_24_GridLine_0001_Sheet2
+12
+ 
+129864
+126859
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+loop end
+ 
+Excel_To_Table_6aeb6809-ea58-4adf-bd80-a6d07fde7d47_Attach BRITISH NUTRITIONS PRIVATE LIMITED_25_GridLine_0001_Sheet1
+13
+ 
+ 
+2.02672e+007
+ 
+2.44939e+007
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+loop end
+ 
+Excel_To_Table_6aeb6809-ea58-4adf-bd80-a6d07fde7d47_Attach BRITISH NUTRITIONS PRIVATE LIMITED_25_GridLine_0001_Sheet2
+9
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+loop end
+ 
+Excel_To_Table_6aeb6809-ea58-4adf-bd80-a6d07fde7d47_Attach BRITISH NUTRITIONS PRIVATE LIMITED_25_GridLine_0001_Sheet3
+15
+ 
+ 
+1.50616e+007
+1.64182e+007
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+loop end
+ 
+Excel_To_Table_6aeb6809-ea58-4adf-bd80-a6d07fde7d47_Attach BRITISH NUTRITIONS PRIVATE LIMITED_26_GridLine_0001_Sheet1
+54
+ 
+ 
+ 
+2.90876e+007
+2.82104e+007
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+loop end
+ 
+Excel_To_Table_6aeb6809-ea58-4adf-bd80-a6d07fde7d47_Attach BRITISH NUTRITIONS PRIVATE LIMITED_27_GridLine_0001_Sheet1
+34
+ 
+ 
+57500
+50000
+97004
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+loop end
+ 
+Excel_To_Table_6aeb6809-ea58-4adf-bd80-a6d07fde7d47_Attach BRITISH NUTRITIONS PRIVATE LIMITED_3_GridLine_0001_Sheet1
+45
+4
+1
+ 
+ 
+21
+ 
+1.24066e+008
+ 
+1.38621e+008
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+loop end
+update Temp_NotesTable set Particulars= ' '+isnull([C1],'')+ ' '+isnull([C2],'')+ ' '+isnull([C3],'')+ ' '+isnull([C4],'') where  Table_Name='Excel_To_Table_6aeb6809-ea58-4adf-bd80-a6d07fde7d47_Attach BRITISH NUTRITIONS PRIVATE LIMITED_3_GridLine_0001_Sheet1'
+Excel_To_Table_6aeb6809-ea58-4adf-bd80-a6d07fde7d47_Attach BRITISH NUTRITIONS PRIVATE LIMITED_4_GridLine_0001_Sheet1
+41
+ 
+ 
+ 
+ 
+32
+4.65294e+007
+6.77953e+007
+529504
+6.35475e+007
+ 
+7.21625e+007
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+loop end
+update Temp_NotesTable set Particulars= ' '+isnull([C1],'')+ ' '+isnull([C2],'')+ ' '+isnull([C3],'')+ ' '+isnull([C4],'') where  Table_Name='Excel_To_Table_6aeb6809-ea58-4adf-bd80-a6d07fde7d47_Attach BRITISH NUTRITIONS PRIVATE LIMITED_4_GridLine_0001_Sheet1'
+Excel_To_Table_6aeb6809-ea58-4adf-bd80-a6d07fde7d47_Attach BRITISH NUTRITIONS PRIVATE LIMITED_6_GridLine_0001_Sheet1
+64
+ 
+ 
+ 
+22
+1.39114e+008
+1.38621e+008
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+loop end
+update Temp_NotesTable set Particulars= ' '+isnull([C1],'')+ ' '+isnull([C2],'')+ ' '+isnull([C3],'') where  Table_Name='Excel_To_Table_6aeb6809-ea58-4adf-bd80-a6d07fde7d47_Attach BRITISH NUTRITIONS PRIVATE LIMITED_6_GridLine_0001_Sheet1'
+Excel_To_Table_6aeb6809-ea58-4adf-bd80-a6d07fde7d47_Attach BRITISH NUTRITIONS PRIVATE LIMITED_7_GridLine_0001_Sheet1
+64
+ 
+ 
+ 
+ 
+2.90458e+007
+2.29669e+007
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+loop end
+ 
+Excel_To_Table_6aeb6809-ea58-4adf-bd80-a6d07fde7d47_Attach BRITISH NUTRITIONS PRIVATE LIMITED_8_GridLine_0001_Sheet1
+33
+ 
+2.90458e+007
+2.29669e+007
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+loop end
+ 
+Excel_To_Table_6aeb6809-ea58-4adf-bd80-a6d07fde7d47_Attach BRITISH NUTRITIONS PRIVATE LIMITED_9_GridLine_0001_Sheet1
+60
+ 
+ 
+ 
+ 
+9.28069e+006
+9.28069e+006
+ 
+ 
+8.27189e+006
+8.27189e+006
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+loop end
+ 
+
+(164 rows affected)
+
+(1 rows affected)
+
+(766 rows affected)
+
+(766 rows affected)
+
+(0 rows affected)
+
+(0 rows affected)
+
+(1142 rows affected)
+
+(164 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(0 rows affected)
+Raw_Particulars                                                                                                                                                                                                                                                  Value1                                                                                                                                                                                                                                                           Value2                                                                                                                                                                                                                                                          
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+  V Profit before exceptional and extraordinary items and                                                                                                                                                                                                        NULL                                                                                                                                                                                                                                                             NULL                                                                                                                                                                                                                                                            
+   tax (III-1V)                                                                                                                                                                                                                                                  NULL                                                                                                                                                                                                                                                             NULL                                                                                                                                                                                                                                                            
+
+(2 rows affected)
+
+(164 rows affected)
+
+(1 rows affected)

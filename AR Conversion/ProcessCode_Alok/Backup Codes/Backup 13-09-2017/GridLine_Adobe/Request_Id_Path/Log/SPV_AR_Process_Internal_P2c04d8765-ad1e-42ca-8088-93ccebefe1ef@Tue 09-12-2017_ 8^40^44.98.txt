@@ -1,0 +1,740 @@
+
+(1 rows affected)
+
+(1 rows affected)
+
+(9 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(9 rows affected)
+
+(0 rows affected)
+
+(2 rows affected)
+
+(37 rows affected)
+
+(38 rows affected)
+
+(38 rows affected)
+3
+1
+Excel_To_Table_c04d8765-ad1e-42ca-8088-93ccebefe1ef_Giriraj Civil Dev Pvt Ltd_3_GridLine_0001_Overview
+
+(26 rows affected)
+
+(27 rows affected)
+
+(27 rows affected)
+3
+2
+Excel_To_Table_c04d8765-ad1e-42ca-8088-93ccebefe1ef_Giriraj Civil Dev Pvt Ltd_3_GridLine_0001_Sheet1
+
+(2 rows affected)
+
+(2 rows affected)
+
+(66 rows affected)
+
+(67 rows affected)
+
+(67 rows affected)
+5
+3
+Excel_To_Table_c04d8765-ad1e-42ca-8088-93ccebefe1ef_Giriraj Civil Dev Pvt Ltd_5_GridLine_0001_Overview
+
+(15 rows affected)
+
+(16 rows affected)
+
+(16 rows affected)
+5
+4
+Excel_To_Table_c04d8765-ad1e-42ca-8088-93ccebefe1ef_Giriraj Civil Dev Pvt Ltd_5_GridLine_0001_Sheet1
+
+(2 rows affected)
+
+(4 rows affected)
+
+(7 rows affected)
+
+(8 rows affected)
+
+(8 rows affected)
+13
+5
+Excel_To_Table_c04d8765-ad1e-42ca-8088-93ccebefe1ef_Giriraj Civil Dev Pvt Ltd_13_GridLine_0001_Overview
+
+(42 rows affected)
+
+(43 rows affected)
+
+(43 rows affected)
+13
+6
+Excel_To_Table_c04d8765-ad1e-42ca-8088-93ccebefe1ef_Giriraj Civil Dev Pvt Ltd_13_GridLine_0001_Sheet1
+
+(7 rows affected)
+
+(8 rows affected)
+
+(8 rows affected)
+13
+7
+Excel_To_Table_c04d8765-ad1e-42ca-8088-93ccebefe1ef_Giriraj Civil Dev Pvt Ltd_13_GridLine_0001_Sheet2
+
+(9 rows affected)
+
+(10 rows affected)
+
+(10 rows affected)
+13
+8
+Excel_To_Table_c04d8765-ad1e-42ca-8088-93ccebefe1ef_Giriraj Civil Dev Pvt Ltd_13_GridLine_0001_Sheet3
+
+(4 rows affected)
+
+(1 rows affected)
+
+(4 rows affected)
+
+(5 rows affected)
+
+(5 rows affected)
+14
+9
+Excel_To_Table_c04d8765-ad1e-42ca-8088-93ccebefe1ef_Giriraj Civil Dev Pvt Ltd_14_GridLine_0001_Sheet
+
+(1 rows affected)
+
+(0 rows affected)
+
+(0 rows affected)
+
+(1 rows affected)
+
+(4 rows affected)
+
+(5 rows affected)
+
+(5 rows affected)
+16
+10
+Excel_To_Table_c04d8765-ad1e-42ca-8088-93ccebefe1ef_Giriraj Civil Dev Pvt Ltd_16_GridLine_0001_Sheet
+
+(1 rows affected)
+
+(3 rows affected)
+
+(21 rows affected)
+
+(22 rows affected)
+
+(22 rows affected)
+17
+11
+Excel_To_Table_c04d8765-ad1e-42ca-8088-93ccebefe1ef_Giriraj Civil Dev Pvt Ltd_17_GridLine_0001_Overview
+
+(12 rows affected)
+
+(13 rows affected)
+
+(13 rows affected)
+17
+12
+Excel_To_Table_c04d8765-ad1e-42ca-8088-93ccebefe1ef_Giriraj Civil Dev Pvt Ltd_17_GridLine_0001_Sheet1
+
+(25 rows affected)
+
+(26 rows affected)
+
+(26 rows affected)
+17
+13
+Excel_To_Table_c04d8765-ad1e-42ca-8088-93ccebefe1ef_Giriraj Civil Dev Pvt Ltd_17_GridLine_0001_Sheet2
+
+(3 rows affected)
+
+(1 rows affected)
+
+(4 rows affected)
+
+(5 rows affected)
+
+(5 rows affected)
+18
+14
+Excel_To_Table_c04d8765-ad1e-42ca-8088-93ccebefe1ef_Giriraj Civil Dev Pvt Ltd_18_GridLine_0001_Sheet
+
+(1 rows affected)
+
+(2 rows affected)
+
+(21 rows affected)
+
+(22 rows affected)
+
+(22 rows affected)
+19
+15
+Excel_To_Table_c04d8765-ad1e-42ca-8088-93ccebefe1ef_Giriraj Civil Dev Pvt Ltd_19_GridLine_0001_Overview
+
+(35 rows affected)
+
+(36 rows affected)
+
+(36 rows affected)
+19
+16
+Excel_To_Table_c04d8765-ad1e-42ca-8088-93ccebefe1ef_Giriraj Civil Dev Pvt Ltd_19_GridLine_0001_Sheet1
+
+(27 rows affected)
+
+(0 rows affected)
+1
+
+(0 rows affected)
+2
+
+(0 rows affected)
+3
+
+(0 rows affected)
+4
+
+(0 rows affected)
+5
+
+(0 rows affected)
+6
+
+(0 rows affected)
+7
+
+(0 rows affected)
+8
+
+(3 rows affected)
+9
+
+(2 rows affected)
+10
+
+(2 rows affected)
+11
+
+(2 rows affected)
+12
+
+(0 rows affected)
+13
+
+(0 rows affected)
+14
+
+(6 rows affected)
+15
+
+(0 rows affected)
+16
+
+(0 rows affected)
+17
+
+(0 rows affected)
+18
+
+(0 rows affected)
+19
+
+(0 rows affected)
+20
+
+(0 rows affected)
+21
+
+(0 rows affected)
+22
+
+(0 rows affected)
+23
+
+(0 rows affected)
+24
+
+(0 rows affected)
+25
+
+(0 rows affected)
+26
+
+(203 rows affected)
+
+(0 rows affected)
+
+(0 rows affected)
+
+(0 rows affected)
+
+(1 rows affected)
+
+(16 rows affected)
+
+(5 rows affected)
+
+(43 rows affected)
+
+(8 rows affected)
+
+(10 rows affected)
+
+(0 rows affected)
+
+(13 rows affected)
+
+(26 rows affected)
+
+(0 rows affected)
+
+(0 rows affected)
+
+(36 rows affected)
+
+(0 rows affected)
+
+(0 rows affected)
+
+(0 rows affected)
+
+(27 rows affected)
+
+(0 rows affected)
+
+(0 rows affected)
+
+(0 rows affected)
+
+(16 rows affected)
+
+(0 rows affected)
+
+(0 rows affected)
+
+(0 rows affected)
+
+(8 rows affected)
+Excel_To_Table_c04d8765-ad1e-42ca-8088-93ccebefe1ef_Giriraj Civil Dev Pvt Ltd_13_GridLine_0001_Sheet1
+41
+3
+ 
+2.1e+006
+2e+007
+2e+007
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+loop end
+ 
+Excel_To_Table_c04d8765-ad1e-42ca-8088-93ccebefe1ef_Giriraj Civil Dev Pvt Ltd_13_GridLine_0001_Sheet2
+6
+ 
+663700
+4509
+256700
+3908
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+loop end
+ 
+Excel_To_Table_c04d8765-ad1e-42ca-8088-93ccebefe1ef_Giriraj Civil Dev Pvt Ltd_13_GridLine_0001_Sheet3
+8
+ 
+1.66e+007
+2.12e+007
+1.36e+007
+1.99368e+007
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+loop end
+ 
+Excel_To_Table_c04d8765-ad1e-42ca-8088-93ccebefe1ef_Giriraj Civil Dev Pvt Ltd_17_GridLine_0001_Sheet1
+11
+ 
+9
+ 
+8.65713e+006
+579366
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+loop end
+ 
+Excel_To_Table_c04d8765-ad1e-42ca-8088-93ccebefe1ef_Giriraj Civil Dev Pvt Ltd_17_GridLine_0001_Sheet2
+24
+1
+ 
+8.62e+006
+8.6e+006
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+loop end
+ 
+Excel_To_Table_c04d8765-ad1e-42ca-8088-93ccebefe1ef_Giriraj Civil Dev Pvt Ltd_19_GridLine_0001_Sheet1
+34
+1
+15
+18
+ 
+2.49016e+008
+2.07103e+008
+1
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+loop end
+update Temp_NotesTable set Particulars= ' '+isnull([C1],'')+ ' '+isnull([C2],'')+ ' '+isnull([C3],'')+ ' '+isnull([C4],'')+ ' '+isnull([C5],'')+ ' '+isnull([C6],'') where  Table_Name='Excel_To_Table_c04d8765-ad1e-42ca-8088-93ccebefe1ef_Giriraj Civil Dev Pvt Ltd_19_GridLine_0001_Sheet1'
+Excel_To_Table_c04d8765-ad1e-42ca-8088-93ccebefe1ef_Giriraj Civil Dev Pvt Ltd_3_GridLine_0001_Sheet1
+25
+ 
+ 
+ 
+ 
+ 
+20
+10
+3.67733e+008
+2.81598e+008
+2.77854e+008
+2.27299e+008
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+loop end
+update Temp_NotesTable set Particulars= ' '+isnull([C1],'')+ ' '+isnull([C2],'')+ ' '+isnull([C3],'')+ ' '+isnull([C4],'')+ ' '+isnull([C5],'')+ ' '+isnull([C6],'') where  Table_Name='Excel_To_Table_c04d8765-ad1e-42ca-8088-93ccebefe1ef_Giriraj Civil Dev Pvt Ltd_3_GridLine_0001_Sheet1'
+Excel_To_Table_c04d8765-ad1e-42ca-8088-93ccebefe1ef_Giriraj Civil Dev Pvt Ltd_5_GridLine_0001_Sheet1
+14
+25
+4.39332e+008
+3.5739e+008
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+loop end
+ 
+
+(63 rows affected)
+
+(1 rows affected)
+
+(32 rows affected)
+
+(32 rows affected)
+
+(0 rows affected)
+
+(52 rows affected)
+
+(351 rows affected)
+
+(63 rows affected)
+
+(1 rows affected)
+
+(0 rows affected)
+
+(0 rows affected)
+
+(63 rows affected)
+
+(1 rows affected)

@@ -1,0 +1,358 @@
+
+(1 rows affected)
+
+(1 rows affected)
+
+(2 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(1 rows affected)
+
+(2 rows affected)
+
+(0 rows affected)
+
+(2 rows affected)
+
+(2 rows affected)
+
+(3 rows affected)
+
+(3 rows affected)
+2
+1
+Excel_To_Table_2261619f-76a2-43a7-bb9a-8713ffe17e51_Swata Moves_2_GridLine_0001_Overview
+
+(35 rows affected)
+
+(36 rows affected)
+
+(36 rows affected)
+2
+2
+Excel_To_Table_2261619f-76a2-43a7-bb9a-8713ffe17e51_Swata Moves_2_GridLine_0001_Sheet1
+
+(2 rows affected)
+
+(3 rows affected)
+
+(5 rows affected)
+
+(6 rows affected)
+
+(6 rows affected)
+3
+3
+Excel_To_Table_2261619f-76a2-43a7-bb9a-8713ffe17e51_Swata Moves_3_GridLine_0001_Overview
+
+(14 rows affected)
+
+(15 rows affected)
+
+(15 rows affected)
+3
+4
+Excel_To_Table_2261619f-76a2-43a7-bb9a-8713ffe17e51_Swata Moves_3_GridLine_0001_Sheet1
+
+(17 rows affected)
+
+(18 rows affected)
+
+(18 rows affected)
+3
+5
+Excel_To_Table_2261619f-76a2-43a7-bb9a-8713ffe17e51_Swata Moves_3_GridLine_0001_Sheet2
+
+(27 rows affected)
+
+(0 rows affected)
+1
+
+(0 rows affected)
+2
+
+(0 rows affected)
+3
+
+(0 rows affected)
+4
+
+(0 rows affected)
+5
+
+(0 rows affected)
+6
+
+(0 rows affected)
+7
+
+(0 rows affected)
+8
+
+(0 rows affected)
+9
+
+(0 rows affected)
+10
+
+(0 rows affected)
+11
+
+(0 rows affected)
+12
+
+(0 rows affected)
+13
+
+(0 rows affected)
+14
+
+(0 rows affected)
+15
+
+(0 rows affected)
+16
+
+(0 rows affected)
+17
+
+(0 rows affected)
+18
+
+(0 rows affected)
+19
+
+(0 rows affected)
+20
+
+(0 rows affected)
+21
+
+(0 rows affected)
+22
+
+(0 rows affected)
+23
+
+(0 rows affected)
+24
+
+(0 rows affected)
+25
+
+(0 rows affected)
+26
+
+(0 rows affected)
+
+(0 rows affected)
+
+(0 rows affected)
+
+(0 rows affected)
+
+(1 rows affected)
+
+(5 rows affected)
+
+(2 rows affected)
+
+(36 rows affected)
+
+(0 rows affected)
+
+(0 rows affected)
+
+(0 rows affected)
+
+(15 rows affected)
+
+(18 rows affected)
+
+(0 rows affected)
+
+(0 rows affected)
+
+(3 rows affected)
+Excel_To_Table_2261619f-76a2-43a7-bb9a-8713ffe17e51_Swata Moves_2_GridLine_0001_Sheet1
+34
+ 
+41
+ 
+ 
+ 
+ 
+ 
+ 
+749500
+1.15035e+006
+3.40971e+006
+ 
+ 
+ 
+1.15035e+006
+3.40971e+006
+ 
+ 
+ 
+loop end
+update Temp_NotesTable set Particulars= ' '+isnull([C1],'') where  Table_Name='Excel_To_Table_2261619f-76a2-43a7-bb9a-8713ffe17e51_Swata Moves_2_GridLine_0001_Sheet1'
+Excel_To_Table_2261619f-76a2-43a7-bb9a-8713ffe17e51_Swata Moves_3_GridLine_0001_Sheet1
+13
+ 
+ 
+ 
+ 
+204595
+200000
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+loop end
+ 
+Excel_To_Table_2261619f-76a2-43a7-bb9a-8713ffe17e51_Swata Moves_3_GridLine_0001_Sheet2
+16
+ 
+ 
+ 
+749500
+57
+427189
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+loop end
+update Temp_NotesTable set Particulars= ' '+isnull([C1],'')+ ' '+isnull([C2],'')+ ' '+isnull([C3],'')+ ' '+isnull([C4],'') where  Table_Name='Excel_To_Table_2261619f-76a2-43a7-bb9a-8713ffe17e51_Swata Moves_3_GridLine_0001_Sheet2'
+
+(54 rows affected)
+
+(1 rows affected)
+
+(29 rows affected)
+
+(0 rows affected)
+
+(0 rows affected)
+
+(0 rows affected)
+
+(78 rows affected)
+
+(54 rows affected)
+
+(1 rows affected)
+
+(0 rows affected)
+
+(0 rows affected)
+
+(83 rows affected)
+
+(1 rows affected)

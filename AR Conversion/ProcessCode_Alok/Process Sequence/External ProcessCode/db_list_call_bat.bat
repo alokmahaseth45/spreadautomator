@@ -1,0 +1,1 @@
+call "D:\AR Conversion\ProcessCode_Alok\Process Sequence\External ProcessCode\open_And_Read_Excel_Omni.py" "D:\AR Conversion\ProcessCode_Alok\Request\External Process Sql Request\93fa6fed-7166-4758-8ab8-2769dc73fca7_Num2-5_Pending.txt"

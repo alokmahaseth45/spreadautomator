@@ -1,0 +1,4 @@
+call "D:\AR Conversion\ProcessCode_Alok\Open Excel And Read Data\open_And_Read_Excel_Omni_Gridline.py" "D:\AR Conversion\Annual Reports Converted Omni\amitkumar\Pdf_Single_Files\0a3606d1-b9d2-4296-be51-f411cfd2ebc2_AVT17_65_GridLine_0001.xlsx"
+call "D:\AR Conversion\ProcessCode_Alok\Open Excel And Read Data\open_And_Read_Excel_Omni_Gridline.py" "D:\AR Conversion\Annual Reports Converted Omni\amitkumar\Pdf_Single_Files\0a3606d1-b9d2-4296-be51-f411cfd2ebc2_AVT17_66_GridLine_0001.xlsx"
+call "D:\AR Conversion\ProcessCode_Alok\Open Excel And Read Data\open_And_Read_Excel_Omni_Gridline.py" "D:\AR Conversion\Annual Reports Converted Omni\amitkumar\Pdf_Single_Files\0a3606d1-b9d2-4296-be51-f411cfd2ebc2_AVT17_80_GridLine_0001.xlsx"
+call "D:\AR Conversion\ProcessCode_Alok\Open Excel And Read Data\open_And_Read_Excel_Omni_Gridline.py" "D:\AR Conversion\Annual Reports Converted Omni\amitkumar\Pdf_Single_Files\0a3606d1-b9d2-4296-be51-f411cfd2ebc2_AVT17_81_GridLine_0001.xlsx"

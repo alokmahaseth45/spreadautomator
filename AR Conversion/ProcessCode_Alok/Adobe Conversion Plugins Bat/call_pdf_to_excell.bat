@@ -1,2 +1,0 @@
-Call "D:\AR Conversion\ProcessCode_Alok\Adobe Conversion Plugins Bat\AutoBatch pdf to excel with ocr.bat" "D:\AR Conversion\Annual Reports\sameer\Pdf_Single_Files\91d0b8f2-fddb-4f42-b3b1-04340698b106_AURUM SOFT SYSTEMS LIMITED 110820161470882709Aurum Annual Report- 2016_E-Version_48.pdf"
-pause

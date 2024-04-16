@@ -1,1 +1,0 @@
-call "D:\AR Conversion\ProcessCode_Alok\Adobe Conversion Plugins Bat\call_bat_and_run.py"

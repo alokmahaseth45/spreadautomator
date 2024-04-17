@@ -1,1 +1,0 @@
-call "D:\AR Conversion\ProcessCode_Alok\Process Sequence\Process2_Collect_New_Txt_For_Omni.py"

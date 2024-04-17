@@ -1,2 +1,0 @@
-call "D:\AR Conversion\ProcessCode_Alok\Open Excel And Read Data\open_And_Read_Excel_Omni_Gridline.py" "D:\AR Conversion\Annual Reports Converted Omni\shalinee.mimani@edelweissfin.com\Pdf_Single_Files\2261619f-76a2-43a7-bb9a-8713ffe17e51_Swata Moves_2_GridLine_0001.xlsx"
-call "D:\AR Conversion\ProcessCode_Alok\Open Excel And Read Data\open_And_Read_Excel_Omni_Gridline.py" "D:\AR Conversion\Annual Reports Converted Omni\shalinee.mimani@edelweissfin.com\Pdf_Single_Files\2261619f-76a2-43a7-bb9a-8713ffe17e51_Swata Moves_3_GridLine_0001.xlsx"

@@ -1,4 +1,0 @@
-call "D:\AR Conversion\ProcessCode_Alok\GridLine_Adobe\Abode_Gridline_To_Pdf.py" "a3a3a1e1-4e66-41aa-9ee6-e0c2a71d54e4"
-echo SPV_AR_Process_Internal_P2 for RequestId-a3a3a1e1-4e66-41aa-9ee6-e0c2a71d54e4   Start %date% %time%>>"D:\AR Conversion\ProcessCode_Alok\GridLine_Adobe\Request_Id_Path\log\SPV_AR_Process_Internal_P2.txt"
-sqlcmd -E -S localhost -d Annual_Reports -Q "Exec SPV_AR_Process_Internal_P2 'a3a3a1e1-4e66-41aa-9ee6-e0c2a71d54e4' ">>"D:\AR Conversion\ProcessCode_Alok\GridLine_Adobe\Request_Id_Path\log\SPV_AR_Process_Internal_P2a3a3a1e1-4e66-41aa-9ee6-e0c2a71d54e4@%date:/=-%_%time::=^%.txt"
-echo SPV_AR_Process_Internal_P2 for RequestId-a3a3a1e1-4e66-41aa-9ee6-e0c2a71d54e4   End %date% %time%>>"D:\AR Conversion\ProcessCode_Alok\GridLine_Adobe\Request_Id_Path\log\SPV_AR_Process_Internal_P2.txt"

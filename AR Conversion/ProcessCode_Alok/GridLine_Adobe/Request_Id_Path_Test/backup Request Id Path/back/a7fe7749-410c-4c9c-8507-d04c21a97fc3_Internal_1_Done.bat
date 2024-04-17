@@ -1,8 +1,0 @@
-call "D:\AR Conversion\ProcessCode_Alok\GridLine_Adobe\Abode_Gridline_To_Pdf.py" "a7fe7749-410c-4c9c-8507-d04c21a97fc3" "Internal_1"
-echo Start Date_Time proc call-->%date% %time%>>"D:\AR Conversion\ProcessCode_Alok\Log\a7fe7749-410c-4c9c-8507-d04c21a97fc3_Internal_1.txt"
-sqlcmd -E -S localhost -d Annual_Reports -Q "Exec SP_Read_Conversion_Log 'a7fe7749-410c-4c9c-8507-d04c21a97fc3','Internal 1 Proc Start' ">>"D:\AR Conversion\ProcessCode_Alok\GridLine_Adobe\Request_Id_Path\log\RerunSPV_AR_Process_Internal_P1a7fe7749-410c-4c9c-8507-d04c21a97fc3@%date:/=-%_%time::=^%.txt"
-echo SPV_AR_Process_2 for RequestId-a7fe7749-410c-4c9c-8507-d04c21a97fc3   Start %date% %time%>>"D:\AR Conversion\ProcessCode_Alok\GridLine_Adobe\Request_Id_Path\log\SPV_AR_Process_1.txt"
-sqlcmd -E -S localhost -d Annual_Reports -Q "Exec SPV_AR_Process_2 'a7fe7749-410c-4c9c-8507-d04c21a97fc3' ">>"D:\AR Conversion\ProcessCode_Alok\GridLine_Adobe\Request_Id_Path\log\SPV_AR_Process_1a7fe7749-410c-4c9c-8507-d04c21a97fc3@%date:/=-%_%time::=^%.txt"
-echo SPV_AR_Process_2 for RequestId-a7fe7749-410c-4c9c-8507-d04c21a97fc3   End %date% %time%>>"D:\AR Conversion\ProcessCode_Alok\GridLine_Adobe\Request_Id_Path\log\SPV_AR_Process_1.txt"
-echo End Date_Time proc call-->%date% %time%>>"D:\AR Conversion\ProcessCode_Alok\Log\a7fe7749-410c-4c9c-8507-d04c21a97fc3_Internal_1.txt"
-sqlcmd -E -S localhost -d Annual_Reports -Q "Exec SP_Read_Conversion_Log 'a7fe7749-410c-4c9c-8507-d04c21a97fc3','Internal 1 Proc End' ">>"D:\AR Conversion\ProcessCode_Alok\GridLine_Adobe\Request_Id_Path\log\RerunSPV_AR_Process_Internal_P1a7fe7749-410c-4c9c-8507-d04c21a97fc3@%date:/=-%_%time::=^%.txt"

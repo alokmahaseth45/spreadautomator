@@ -1,2 +1,0 @@
-sqlcmd -E -S localhost -d Annual_Reports -Q "Exec SP_Read_Conversion_TimeLog 'ff3aff61-485d-4afc-b143-9c80c91483fb', 'External', 'Collect New Req', 'Collect New Req', '0', 'Start External Collecting New Files', '12/04/17 12:55:31'"
-pause

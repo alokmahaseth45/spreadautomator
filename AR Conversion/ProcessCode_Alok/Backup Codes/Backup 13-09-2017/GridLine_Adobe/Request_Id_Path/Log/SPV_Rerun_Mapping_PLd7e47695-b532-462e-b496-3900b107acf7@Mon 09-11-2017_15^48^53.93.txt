@@ -1,5 +1,0 @@
- ( "Share" Or "Sharees" Or "Shares")  and ( "Earning" Or "Gain" Or "profit" Or "profites" Or "profits")  and ( "los" Or "loss" Or "losses")  and ( "attributable" Or "attributablees" Or "attributables")  and ( "shareholder" Or "shareholderes" Or "shareholders")  and ( "company" Or "companyes" Or "companys") 
-Informational: The full-text search condition contained noise word(s).
-Informational: The full-text search condition contained noise word(s).
-Informational: The full-text search condition contained noise word(s).
-Informational: The full-text search condition contained noise word(s).
